@@ -1,8 +1,8 @@
-# MyProject
+# TechConnect
 
 ## Overview
 
-**MyProject** is a web application designed for users to view job listings, manage their profiles, and explore rewards. The project features user authentication, real-time updates, and a clean, responsive UI. This README covers both the backend and frontend components of the project.
+**TechConnect** is a project developed to create a user-friendly landing page that showcases the latest in technology. As the sole developer, I undertook this project to improve my skills in web development and create a functional, visually appealing website.
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Nhlelo/myproject-backend.git
+    git clone https://github.com/Nhlobo/myproject-backend.git
     cd myproject-backend
     ```
 
@@ -74,7 +74,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Nhlelo/myproject-frontend.git
+    git clone https://github.com/Nhlobo/myproject-frontend.git
     cd myproject-frontend
     ```
 
