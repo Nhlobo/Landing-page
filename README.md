@@ -4,6 +4,9 @@
 
 **TechConnect** is a project developed to create a user-friendly landing page that showcases the latest in technology. As the sole developer, I undertook this project to improve my skills in web development and create a functional, visually appealing website.
 
+![TechConnect Screenshot](https://i.imgur.com/REY3ToL.png)
+
+
 ## Table of Contents
 
 - [Features](#features)
