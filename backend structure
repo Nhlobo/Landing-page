@@ -1,0 +1,23 @@
+/myproject-backend
+  /controllers
+    authController.js
+    jobController.js
+    rewardController.js
+    userController.js
+  /middleware
+    authMiddleware.js
+  /models
+    Job.js
+    Reward.js
+    User.js
+  /routes
+    authRoutes.js
+    jobRoutes.js
+    rewardRoutes.js
+    userRoutes.js
+  /utils
+    db.js
+  /server.js
+  .env
+  package.json
+  README.md
